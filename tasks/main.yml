@@ -1,0 +1,12 @@
+---
+# Title: nextcloud aio docker
+#
+# Author: Bitfinity / L. Rutten
+# Owner: Bitfinity / L. Rutten
+#
+# File: tasks/main.yml
+#
+# Description:
+#   This role contains the tasks for setting up
+#   a Nextcloud AIO docker instance.
+#
