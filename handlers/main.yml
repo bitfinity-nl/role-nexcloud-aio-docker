@@ -4,7 +4,7 @@
 # Author: Bitfinity / L. Rutten
 # Owner: Bitfinity / L. Rutten
 #
-# File: tasks/handlers.yml
+# File: handlers/main.yml
 #
 # Description:
 #   This role contains the tasks for setting up
