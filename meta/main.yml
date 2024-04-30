@@ -1,0 +1,21 @@
+---
+dependencies: []
+  - src: https://github.com/bitfinity-nl/role-docker-engine.git
+    name: role-docker-engine
+    version: main
+    
+galaxy_info:
+  role_name: role-nextcloud-aio-docker
+  author: Bitfinity / L. Rutten
+  description: On-premises content collaboration platform
+  company: "Bitfinity"
+  license: "license (BSD, MIT)"
+  min_ansible_version: 2.10
+  platforms:
+    - name: Ubuntu
+      versions:
+        - all 
+  galaxy_tags:
+    - ubuntu
+    - collaboration
+    - on-premises
